@@ -1,0 +1,53 @@
+p {
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    text-indent: 30px;
+    font-size: small; 
+  }
+
+#asv {
+    background-color: aquamarine;
+  }
+
+#codcw {
+    background-color: darkgreen;
+}
+
+#nba2k21 {
+    background-color: firebrick;
+}
+
+#got {
+    background-color: lightslategrey;
+}
+
+nav {
+    background-color: lightyellow;
+}
+
+iframe {
+    padding: 50px;
+}
+
+header {
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    text-indent: 10px;
+    font-size: larger;  
+}
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    text-indent: 20px;
+    font-size: large;  
+}
+
